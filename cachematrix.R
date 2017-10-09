@@ -1,4 +1,4 @@
-## Rprogramming homework 3 on Coursera
+## Rprogramming homework 3
 ## Sothiro pin
 
 ## makeCacheMatrix generates a matrix and stores its inverse if calculated using the
